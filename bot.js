@@ -136,7 +136,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('LXRYOUTUBER working 💌')
+            chalk.green.bold('Lucifer working 💌')
         );
     });
     
@@ -261,9 +261,9 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ LXRYOUTUBER ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: *' +
-                                    '\n\n*⚠️ ' + error + 'https://youtube.com/channel/UCqRmM0N9Z-7bBiTqJsfFWwg*\n'
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Lucifer ~______~*' +
+                                    '\n*🌀 Join My Movie Gorup to get erorr: *' +
+                                    '\n\n*⚠️ ' + error + 'https://t.me/ADMOVEIAD*\n'
                                     , MessageType.text);
                             }
                         }
