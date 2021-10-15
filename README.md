@@ -1,19 +1,19 @@
 <div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+LXR+YOUTUBER+WA+Bot+repo;Created+by+Amal;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+Watsapp+Bot+V2+Bot+repo;Created+by+Lucifer;This+is+a+Bgm+stickerbot;With+more+features)](https://git.io/typing-svg)
 
  </a>
 </p>
 <div align="center">
   <p align="center">
-<img src="https://telegra.ph/file/6cae56a1a71342777acdc.jpg" alt="JPG" width="300" height="250"/>
+<img src="https://telegra.ph/file/66fe06d57737cf5790282.jpg" alt="JPG" width="300" height="250"/>
 </p>
   <p align="center">
-<a href="https://github.com/LXR-YOUTUBER-AMAL"><img title="Author" src="https://img.shields.io/badge/Author-Amal-LXR-YOUTUBER-AMAL/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="">https://github.com/LuciferMoringStarDevil<img title="Author" src="https://img.shields.io/badge/Author-Amal-LXR-YOUTUBER-AMAL/Amalser_v2?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/LXR-YOUTUBER-AMAL">Amalser_v2</a> to make it public
+Project created by <a href="https://github.com/LuciferMoringStarDevil">Amalser_v2</a> to make it public
     <br>
        | © |
         Reserved |
