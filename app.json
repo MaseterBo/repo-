@@ -1,10 +1,10 @@
 {
-    "name": "LXR-YOUTUBER",
-    "description": "LXR-YOUTUBER is the Modified Version of WhatsAsena, Made By LXR AMAL with Baileys.",
-    "logo": "https://te.ph/file/6cae56a1a71342777acdc.jpg",
+    "name": "Lucifer_Devil_AD",
+    "description": "Lucifer_Devil_AD is the Modified Version of WhatsAsena, Made By Lucifer with Baileys.",
+    "logo": "https://telegra.ph/file/66fe06d57737cf5790282.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2",
-    "website":   "https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2",
+    "repository": "https://github.com/LuciferMoringStarDevil/Watsapp-botV2",
+    "website":   "https://github.com/LuciferMoringStarDevil/Watsapp-botV2",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
     "env": {
