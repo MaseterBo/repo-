@@ -68,7 +68,7 @@ $ node julie.js
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/IouETF8ZYadKKAJk0ZJtE6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HsjOO4TsRLL90kTrATPxhB)
   <div align="center">
        
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=farhan-dqz&repo=Julie-Mwol&theme=nightowl)](https://github.com/farhan-dqz/Julie-Mwol)
@@ -82,17 +82,7 @@ Absolutely, Asena executives do not accept responsibility.
 By establishing the Asena, you are deemed to have accepted these responsibilities.
 ```
 
-## Developers
-  <div align="center">
     
-  [![Shahid-devil](https://github.com/shahid-devil.png?size=150)](https://github.com/farhan-dqz) | [![LXRYOUTUBER](https://github.com/LXR-YOUTUBER-AMAL.png?size=150)](https://github.com/LXR-YOUTUBER-AMAL) |  [![TOXIC4L!3N](https://github.com/Alien-alfa.png?size=150)](https://github.com/AI-VIKI) | [![afnanplk](https://github.com/afnanplk.png?size=150)](https://github.com/afnanplk) 
-----|----|----|----
-[Shahid-devil](https://github.com/shahid-devil) | [LXRYOUTUBER](https://github.com/LXR-YOUTUBER-AMAL) | [TOXIC4L!3N](https://github.com/AI-VIKI) | [afnanplk](https://github.com/afnanplk) 
-Developer, Base, Bug Fixes, Modules| Re-Developer, Bug Fixes, Modules, Commits |  Modifiying  as   public | Bug Fixes, Modules 
-  </div>
-    
-
-
 ## License
 This project is protected by `GNU General Public Licence v3.0` license.
 
